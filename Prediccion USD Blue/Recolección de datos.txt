@@ -1,0 +1,19 @@
+Recolección de datos:
+
+Precio USD Blue: 		https://www.ambito.com/contenidos/dolar-informal
+
+IPC:				https://www.indec.gob.ar/
+
+Riesgo País:			https://www.ambito.com/contenidos/riesgo-pais-historico
+
+Cuenta Financiera:		https://www.indec.gob.ar/
+
+Reservas:			https://www.bcra.gob.ar
+
+M2:				https://www.bcra.gob.ar
+
+BADLAR:				https://www.bcra.gob.ar
+
+Tipo de Cambio Oficial:		https://www.bcra.gob.ar
+
+MEP:				https://www.ambito.com/contenidos/dolar-mep
